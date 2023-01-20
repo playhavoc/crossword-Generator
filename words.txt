@@ -1,0 +1,100 @@
+words = ['futhermore', 'pizzazz', 'catapilla', 'quizzed', 'jacuzzi', 'unicorn', 'frizzly',
+        'abdomen', 'adherer', 'enzymes'
+]
+
+words = ['sparrow', 'bug', 'catapilla', 'frog', 'snake', 'unicorn', 'zebra', 'pantha', 'lion',
+        'hippo', 'egale', 'dog', 'cat', 'lizzard', 'elephant', 'lepricorn', 'mouse', 'cow', 'pig',
+        'horse', 'gekko']
+
+catapilla,Before a butterfly
+lepricorn,Small and Irish
+pantha,Black P...
+hippo,Short for hippopotomas
+pig,Pink with small tail
+gekko,cool animal that goes invisible
+
+cat,the word is cat
+pantha, the word is pantha
+helicopter, the word is helicopter
+maggot,the word is maggot
+fish,the word is fish
+england,the word is england
+france,the word is france
+paraguay,the word is paraguay
+atalanta,the word is atalanta
+never,the word is never
+food,the word is food
+word, the word is work
+gamer,the word is gamer
+horse,the word is horse
+ying,the word is ying
+yang,the word is yang
+burger,the word is burger
+havoc,the word is havoc
+idiot,the word is idiot
+eves,the word is eves
+
+banana,banana
+fish,fish
+avocado,avocado
+never,never
+eat,eat
+linus,linus
+gary,gary
+food,food
+furthermore,furthermore
+elephant,elephant
+always,always
+ate,ate
+sayless,sayless
+footer,footer
+youtube,youtube
+netflix,netflix
+chill,chill
+bedtime,bedtime
+coding,coding
+annoying,annoying
+boom,boom
+
+cow,cow
+llama,llama
+lynx,lynx
+horse,horse
+lion,lion
+tiger,tiger
+pantha,pantha
+cheetah,cheetah
+antelope,antilope
+sheep,sheep
+chicken,chicken
+rabit,rabit
+hare,hare
+goat,goat
+aardvaark,aardvaark
+platypus,platypus
+penguin,penguin
+raven,raven
+crocodile,crocodile
+alligator,alligator
+
+banana,banana
+fish,fish
+avocado,avocado
+néver,néver
+éat,éat
+linus,linus
+gary,gary
+food,food
+furthérmoré,furthérmoré
+élephant,élephant
+always,always
+até,até
+sayléss,sayléss
+footér,footér
+youtube,youtube
+netflix,netflix
+chill,chill
+bédtime,bédtime
+coding,coding
+annoying,annoying
+boom,boom
